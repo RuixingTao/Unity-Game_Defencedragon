@@ -1,3 +1,5 @@
+PS：The source package of the whole application is too large to upload to this repositories. If necessary, you can contact me to get it(email:taoruixing1@gmail.com)
+
 1. Overview of the game 
 (1) Overview of game types: 
 This game is a leisure tower defense game developed by unity platform. Players in the fictional scene, will have been set up guns, guns, rockets three weapons props dragged to the virtual scene of the specified box area, can be carried out on the monster attack and defense operations. During the game, with the dynamic background music, and according to the different attack methods chosen by the players, the system will switch to the corresponding game sound, which makes the players have a better game scene experience during the game. 
